@@ -1,0 +1,6 @@
+
+// online database:
+<add key="CONN_STR" value="Data Source=sql8020.site4now.net;Database=db_aabe61_qdrmenu;User ID=db_aabe61_qdrmenu_admin;Password=qdrmenu12345@a"/>
+	
+// local database:
+<add key="CONN_STR" value="Data Source=MSI\INSTANCE_2K19_01;Database=RestaurantSAAS;User ID=sa;Password=sapassword"/>
