@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "xTbh4RhZbcbZgBTEFjrXOibIkXuouPFz7YLzc7eVHJWgMBg4b7xdvAWq/KRV7/2uTewj3LtEPL+NPlBdwNylNA==",
+  "dgSpecHash": "QtrHX2SS/+CfAjVMbnRYhU8n7tZjTQj8cg+zAyxVlUTdfjG3KHuFh09NCrQdcbZc4S3wVAgWg8A0CS3zuUVFdg==",
   "success": true,
   "projectFilePath": "E:\\DEV\\CB\\14-01-2024\\Restaurant\\App\\Sln_Restaurant\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.0\\amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.2.0\\amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\9.0.0\\amazon.lambda.aspnetcoreserver.9.0.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.aspnetcoreserver.hosting\\1.7.0\\amazon.lambda.aspnetcoreserver.hosting.1.7.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.10.0\\amazon.lambda.runtimesupport.1.10.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\enyimmemcachedcore\\2.7.0\\enyimmemcachedcore.2.7.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\jwt\\10.1.1\\jwt.10.1.1.nupkg.sha512",

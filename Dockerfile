@@ -1,20 +1,10 @@
+# Use the ASP.NET Core runtime image as the base image for deployment
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
-EXPOSE 443
 
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-COPY ["WebApplication2.csproj", "WebApplication2/"]
-RUN dotnet restore "WebApplication2.csproj"
-COPY . .
-WORKDIR "/src/WebApplication2"
-RUN dotnet build "WebApplication2.csproj" -c Release -o /app/build
+# Copy the DLLs and other necessary files from your local machine to the container
+COPY bin/Debug/net6.0 .
 
-FROM build AS publish
-RUN dotnet publish "WebApplication2.csproj" -c Release -o /app/publish
-
-FROM base AS final
-WORKDIR /app
-COPY --from=publish /app/publish .
+# Set the entry point for the container
 ENTRYPOINT ["dotnet", "WebApplication2.dll"]

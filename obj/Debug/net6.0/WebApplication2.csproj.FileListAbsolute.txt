@@ -69,3 +69,11 @@ E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Debug\net
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.RuntimeSupport.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll

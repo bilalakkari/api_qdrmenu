@@ -1,0 +1,7 @@
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.csproj.AssemblyReference.cache
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.AssemblyInfoInputs.cache
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.AssemblyInfo.cs
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.csproj.CoreCompileInputs.cache
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\linux-x64\WebApplication2.MvcApplicationPartsAssemblyInfo.cache

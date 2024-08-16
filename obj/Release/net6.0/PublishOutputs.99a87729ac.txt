@@ -7,6 +7,14 @@ E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\n
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll.config
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.APIGatewayEvents.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.AspNetCoreServer.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Core.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Logging.AspNetCore.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.RuntimeSupport.dll
+E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Serialization.SystemTextJson.dll
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Cryptography.dll
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\EnyimMemcachedCore.dll
 E:\DEV\CB\14-01-2024\Restaurant\App\Sln_Restaurant\WebApplication2\obj\Release\net6.0\PubTmp\Out\JWT.dll
